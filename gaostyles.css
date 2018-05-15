@@ -1,0 +1,37 @@
+h2 {
+    color: steelblue;
+}
+
+h3 {
+    color: silver;
+    font-style: italic;
+}
+
+h2,
+h3,
+h5 {
+    font-family: courier;
+}
+
+div {
+    border-style: double inset;
+    width: 400px;
+    height: 400px;
+    border-color: black;
+}
+
+#hungrygao1 {
+    width: 25px;
+    height: 25px;
+    top: 175px;
+    left: 50px;
+    position: relative;
+}
+
+#hungrygao2 {
+    width: 25px;
+    height: 25px;
+    top: 175px;
+    left: 300px;
+    position: relative;
+}
