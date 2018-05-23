@@ -24,7 +24,7 @@ div {
     width: 25px;
     height: 25px;
     top: 175px;
-    left: 50px;
+    left: -100px;
     position: relative;
 }
 
@@ -32,6 +32,6 @@ div {
     width: 25px;
     height: 25px;
     top: 175px;
-    left: 300px;
+    left: 100px;
     position: relative;
 }
