@@ -35,3 +35,12 @@ div {
     left: 100px;
     position: relative;
 }
+
+#gameover {
+    width: 700px;
+    height: 700px;
+    top: -150px;
+    left: -150px;
+    opacity: 0;
+    position: relative;
+}
